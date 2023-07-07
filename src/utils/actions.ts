@@ -1,0 +1,5 @@
+export const COUNTERACTIONS = {
+  INCREMENT: "INC",
+  DECREMENT: "DEC",
+  INCREMENTBY: "ADD"
+};
